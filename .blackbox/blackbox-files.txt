@@ -1,1 +1,2 @@
+databases/senhas.txt
 ssh/mykey.pem

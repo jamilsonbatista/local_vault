@@ -3,3 +3,4 @@
 /.blackbox/secring.gpg
 /ssh/mykey.pem
 /databases/mypostgres.txt
+/databases/senhas.txt
